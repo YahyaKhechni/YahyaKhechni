@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 🔭 Hi there, I am an IT support technician and a self-thaught student<br>🌱 I’m currently learning Azure , Powershell, Docker... and any thing that relates to cloud
 
@@ -16,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YahyaKhechni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YahyaKhechni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YahyaKhechni&icon=6&color=4)](https://visitcount.itsvg.in)
