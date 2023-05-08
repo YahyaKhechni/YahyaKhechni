@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi there, I am an IT support technician and a self-thaught student<br>🌱 I’m currently learning Azure , Powershell, Docker... and any thing that relates to cloud
+🔭 Hi there, I am an IT support technician and a self-thaught student<br>🌱 I’m currently learning Azure , Powershell, Docker... and anything that relates to cloud
 
 
 ## 🌐 Socials:
